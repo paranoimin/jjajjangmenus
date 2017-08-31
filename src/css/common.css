@@ -1,0 +1,17 @@
+#header {
+    width: 100%;
+    height: 80px;
+    max-width: 1280px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 80px;
+}
+
+.cateStrong {
+    font-weight: bold;
+    font-size: 25px;
+}
+.menuNormal {
+    font-weight: normal;
+    font-size: 14px;
+}
