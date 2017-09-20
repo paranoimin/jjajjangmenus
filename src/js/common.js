@@ -24,7 +24,7 @@ window.onload = function() {
             ]
         },
         {
-            "cate": "해불류",
+            "cate": "해물류",
             "menu": [
                 {"name": "(특)전가복"},
                 {"name": "전가복"},
@@ -44,7 +44,9 @@ window.onload = function() {
             ]
         }
     ];
-
+/**
+*
+*/
     var body = document.getElementsByTagName("body")[0];
 
     // header elements
